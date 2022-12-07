@@ -1,7 +1,6 @@
 # my-first-site2
 <html>
    <head>
-<title>пон</title>
 <link rel="stylesheet" href="style.css" type="text/css"/>
     <body>
             <header>
